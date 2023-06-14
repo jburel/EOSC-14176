@@ -1,4 +1,5 @@
 # Connect resources
+[![Actions Status](https://github.com/jburel/EOSC-14176/workflows/build/badge.svg)](https://github.com/jburel/EOSC-14176/actions)
 
 This repository contains notebooks connecting public resources. This work is done as part of a project support 
 by [EOSC-Life](https://www.eosc-life.eu/).
